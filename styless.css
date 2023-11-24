@@ -1,0 +1,19 @@
+form {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  gap: 10px;
+}
+#comment-content {
+  margin-bottom: 10px;
+}
+.comment {
+  border: 1px solid grey;
+  border-radius: 10px;
+  width: 600px;
+  padding: 10 px;
+}
+.text-content {
+  width: 600px;
+  padding: 20px;
+}
